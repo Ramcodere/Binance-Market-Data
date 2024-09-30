@@ -24,7 +24,7 @@ This project is a real-time cryptocurrency market data charting application buil
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/binance-market.git
+git clone https://github.com/Ramcodere/Binance-Market-Data
 cd binance-market
 
 Project Structure
